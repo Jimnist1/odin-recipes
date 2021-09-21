@@ -1,0 +1,1 @@
+This project is to practice the skills I have learnt about html and CSS. I will be building a simple website about recipes.
