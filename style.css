@@ -1,3 +1,31 @@
+* {
+    font-family: georgia, "Times New Roman", serif;
+}
 .main.link {
     color: rgb(68, 68, 173);
+    font-weight: bold;
+    font-size: 50px;
+    text-align: left;
+}
+.main {
+    color: red;
+    font-size: 100px;
+    text-align: center;
+}
+.image {
+    text-align: center;
+
+}
+#home {
+    text-align: center;
+}
+
+.link {
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+    
+}
+.image .description { 
+    font-style: italic;
 }
