@@ -2,7 +2,7 @@
     font-family: georgia, "Times New Roman", serif;
 }
 .main.link {
-    color: rgb(68, 68, 173);
+    color: rgb(68, 68, 175);
     font-weight: bold;
     font-size: 50px;
     text-align: left;
@@ -14,18 +14,27 @@
 }
 .image {
     text-align: center;
-
 }
 #home {
     text-align: center;
+    font-size: 30px;
 }
 
 .link {
     font-weight: bold;
     font-style: italic;
-    color: red;
-    
+    color: red;  
 }
 .image .description { 
     font-style: italic;
+}
+#method,
+#ingredients {
+    font-size: 45px;
+    color: rgb(68, 68, 175);
+}
+.list {
+    background-color: black;
+    color: white;
+    font-size: 30px;
 }
